@@ -1,0 +1,17 @@
+.idea/
+.git/
+/trunk/app/bootstrap.php.cache
+/trunk/app/cache/*
+!trunk/app/cache/.gitkeep
+/trunk/app/config/parameters.yml
+/trunk/app/logs/*
+!trunk/app/logs/.gitkeep
+/trunk/app/phpunit.xml
+/trunk/bin/
+#/trunk/composer.phar
+/trunk/vendor/
+/trunk/web/bundles/
+/trunk/web/uploads/
+/trunk/web/log.txt
+/trunk/.git/
+/trunk/.idea/
